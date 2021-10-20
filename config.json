@@ -1,0 +1,57 @@
+{
+  "greeting_text": "おかえり！",
+  "show_time": true,
+  "background": "#171928",
+  "foreground": "#c7b7c7",
+  "search_engine": "https://www.google.com/search?q=",
+  "background_images": [
+    "url(https://source.unsplash.com/random/800x600/?wallpaper)"
+  ],
+  "favorites": [
+    {
+      "name": "Steam",
+      "key": ":st",
+      "href": "https://store.steampowered.com/",
+      "cse": "/search/?term="
+    },
+    {
+      "name": "Twitter",
+      "key": ":tt",
+      "href": "http://twitter.com"
+    },
+    {
+      "name": "Youtube",
+      "key": ":yt",
+      "href": "http://youtube.com",
+      "cse": "/results?search_query="
+    },
+    {
+      "name": "Github",
+      "key": ":gh",
+      "href": "http://github.com",
+      "cse": "/search?q="
+    },
+    {
+      "name": "Hacker news",
+      "key": ":hs",
+      "href": "https://news.ycombinator.com/"
+    },
+    {
+      "name": "Anilist",
+      "key": ":al",
+      "href": "https://anilist.co",
+      "cse": "/search/anime?search="
+    },
+    {
+      "name": "Amazon",
+      "key": ":az",
+      "href": "https://www.amazon.co.uk",
+      "cse": "/s?k="
+    },
+    {
+      "name": "Gmail",
+      "key": ":em",
+      "href": "http://gmail.com"
+    }
+  ]
+}
